@@ -90,3 +90,14 @@ nav div{
     color: #FFC652;
     font-size: 16px;
 }
+.banner h1{
+    font-size: 58px;
+    color: white;
+    font-weight: bold;
+    margin: 20px 0;
+}
+.banner p{
+    font-size: 20px;
+    margin: 20px 0;
+    color: white;
+}
