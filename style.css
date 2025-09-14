@@ -1,0 +1,92 @@
+
+/* Navbar style */
+header{
+    background-image:
+    linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url("https://as1.ftcdn.net/jpg/05/28/87/70/1000_F_528877041_r6zSfGEOQVt0voWHasUDdpPGkWm1LIqp.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.btn-primary{
+    background-color: #FF6551;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    font: bold;
+}
+nav{
+  
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    align-items: center;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+nav li{
+    float: left;
+    margin-top: 10px;
+}
+nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav li a:hover{
+    background-color: #111;
+}
+nav h1{
+    color: white;
+   
+}
+nav div{
+    margin-top: 10px;
+}
+
+.join{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    margin-left: 10PX;
+}
+
+.btn-login{
+    background: none;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10PX;
+}
+
+.banner{
+    text-align: center;
+    color: white;
+    padding: 100px 20px;
+}
+
+.banner h4{
+    color: #FFC652;
+    font-size: 16px;
+}
