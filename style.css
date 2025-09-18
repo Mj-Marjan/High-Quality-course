@@ -292,3 +292,25 @@ opacity: 1;
     color: #737373;
     font-weight: 700;
 }
+
+.email-section{
+    text-align: center;
+    margin: 150px 0px;
+}
+
+.email-section h4{
+    font-size: 14px;
+    font-weight: 700;
+    color: #FF6551;
+}
+
+.email-section h1{
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+.email-section p{
+    font-size: 14px;
+    color: #737373;
+    font-weight: 400;
+}
