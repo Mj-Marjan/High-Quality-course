@@ -344,3 +344,35 @@ opacity: 1;
     font: bold;
     margin-bottom: 30px;
 }
+
+.footer-info{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 50px 20px;
+    gap: 50px;
+}
+.company-info h1{
+    font-size: 16px;
+    font-weight: 700;
+}
+.company-info ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+.company-info ul li a{
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #737373;
+}
+
+.copyright{
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+    font-size: 14px;
+    color: #737373;
+    margin-top: 20px;
+}
