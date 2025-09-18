@@ -295,7 +295,7 @@ opacity: 1;
 
 .email-section{
     text-align: center;
-    margin: 150px 0px;
+    margin-top: 150px;
 }
 
 .email-section h4{
@@ -313,4 +313,34 @@ opacity: 1;
     font-size: 14px;
     color: #737373;
     font-weight: 400;
+}
+
+.form-container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#email{
+    padding: 12px;
+    width: 600px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.email-btn{
+    background-color: #FF6551;
+    color: white;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font: bold;
+    margin-bottom: 30px;
 }
