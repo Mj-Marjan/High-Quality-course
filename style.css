@@ -255,3 +255,40 @@ opacity: 1;
     color: #737373;
     
 }
+
+.test-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin: 50px 0;
+
+}
+
+.text-card-1{
+   
+    text-align: center;
+}
+.text-card-1 img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+}
+
+.text-card-1 h4{
+    font-size: 14px;
+    color: #737373;
+    font-weight: 400;
+}
+
+.text-card-1 h1{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.text-card-1 h3{
+    font-size: 14px;
+    color: #737373;
+    font-weight: 700;
+}
